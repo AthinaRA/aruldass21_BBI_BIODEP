@@ -7,7 +7,7 @@ Author : Miss Athina Aruldass (ara49@cam.ac.uk or athina@aruldass.co.uk)
 Date created : 23rd Aug 2021; 7.15pm (version 1) | 31st Aug 2021; 2.13am (v2) | 19th Feb 2022; 9.13pm (v3)
 
 
-############################################################################################################################################################
+##################################################
 
 DATA ORIGIN :
 Data made available on this platform was collected as part of a wider academic-industry initiative to investigate novel therapeutics for inflammation-linked depression 
@@ -42,7 +42,7 @@ Please cite data usage as - Athina Aruldass, Edward Bullmore. 2021. Research dat
 
 
 
-############################################################# FILES / SCRIPTS FOR FIGURES ###################################################################
+########## FILES / SCRIPTS FOR FIGURES ##################
 
 Glasser cortical and (Free Surfer aseg) ROI labels (for FC matrices) : FCmatsROIorder_glasser.txt (see INFO ON DATA USAGE item 1)
 Yeo 7-network modular ordering of Glasser cortical and (Free Surfer aseg) regions : Yeo_hcp.txt (see INFO ON DATA USAGE item 1)
@@ -51,7 +51,7 @@ Figure 1D (and 2C,3C) - chord diagram : Chord_diag_BBI.R
 Figure 3A - correlation matrix : ImmBeh_CorrMat_BBI.R
 
 
-############################################################# INFORMATION ON DATA USAGE ##############################################################
+######## INFORMATION ON DATA USAGE #######################
 
 Generation of data and structure of data shared is briefly outlined below :
 
