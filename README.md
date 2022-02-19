@@ -9,37 +9,7 @@ Date created : 23rd Aug 2021; 7.15pm (version 1) | 31st Aug 2021; 2.13am (v2) | 
 
 ##################################################
 
-DATA ORIGIN :
-Data made available on this platform was collected as part of a wider academic-industry initiative to investigate novel therapeutics for inflammation-linked depression 
-(detailed under Study Funding below). The present data is from the secondary cohort of the Biomarkers for Depression (BioDep) study - a 3-group observational 
-case-control study conducted to explore functional connectivity abnormalities in inflammation-linked depression across : Healthy controls (N=46, CRP < 3mg/L), low inflammation depression cases (loCRP, N=50, CRP < 3mg/L) 
-and high inflammation depression cases (hiCRP, N=33, CRP > 3mg/L). All procedures were approved by an independent national research ethics service (NRES) committee 
-(NRES: East of England, Cambridge Central, UK; Reference: 15/EE/0092) and all participants provided written informed consent. 
-
-Corresponding Author : Miss Athina Aruldass 
-Principal Investigator : Professor Edward Bullmore (etb23@cam.ac.uk)
-
-
-SHARED DATA :
-In line with the Wellcome Trust open research policy, BioDep data cannot be made available publically. Restrcited access could be provided to accredited groups via IDE-CAM Repository.
-Please contact PI for access to functional connectivity (FC) matrices for cases and controls, CRP (c-reactive protein) concentrations, sociodemographic data e.g. age, sex, BMI, and behavioral data i.e. total scores from behavioral instruments. 
-All shared data have been sufficiently anonimized to contain no sensitive data i.e. birthdate, ethnicity, recruitment centre, medical history omitted. 
-Participant ID appended in sociodemographic and behavioral datasets contain no identifiable personal information. Full details on fMRI preprocessing and related data available in main publication.
-Other data e.g. other immune variables cannot be made available following restrictions instituted by the informed consent process. 
-Queries regarding shared data should be directed to Corresponding Author or Principal Investigator.
-
-
-STUDY FUNDING :
-The study was funded by an award from the Wellcome Trust (grant number: 104025/Z/14/Z) for the Neuroimmunology of Mood Disorders and Alzheimer’s Disease (NIMA) Consortium 
-in partnership with Janssen, GlaxoSmithKline, Lundbeck and Pfizer. Additional support was provided by the National Institute for Health Research (NIHR) Biomedical Research Centre (BRC) 
-at Cambridge (Mental Health and Cell Phenotyping Hub), the NIHR BRC at South London and Maudsley NHS Foundation Trust and King’s College London, 
-and an NIHR Senior Investigator award (to Principal Investigator - Prof Edward Bullmore).
-
-
-CITATION :
-Please cite data usage as - Athina Aruldass, Edward Bullmore. 2021. Research data supporting “Dysconnectivity of a brain functional network was associated with blood inflammatory markers in depression. 
-(2021)” IDE-CAM Repository. https://portal.ide-cam.org.uk/collections
-
+Please see project Wiki for details on Data origin, Funding, and Citation (data shared and code).
 
 
 ########## FILES / SCRIPTS FOR FIGURES ##################
